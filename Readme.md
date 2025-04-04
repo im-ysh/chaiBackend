@@ -1,4 +1,4 @@
-#this is a video series on chai backend 
+#this is a backend project based on YT backend tutorial
 
--  (model link) (https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
+-   (model link) (https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
 
